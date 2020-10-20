@@ -1,3 +1,8 @@
+#this is made by ADITYA VIKRAM SINHA 11916214  K19PG 
+#i have explained everything here using comments 
+
+
+
 # importing the tkinter module
 from tkinter import *
 
